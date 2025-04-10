@@ -11,3 +11,11 @@ header{
     height: 60px;
     background-color: rgb(164, 113, 223);
 }
+
+head nav{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:aquamarine
+}
