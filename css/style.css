@@ -27,3 +27,11 @@ nav ul{
     justify-content: center;
     align-items: center;
 }
+
+ul li{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
